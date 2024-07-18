@@ -4,11 +4,14 @@
 <img align="center"  width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanthdavuluri&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanthdavuluri" /> </p>
 
+
+ 
 - 🌱 I’m currently learning **Salesforce, Devops,AWS cloud, AZURE and game engine**
-
+  
 - 💬 Ask me about **Myself**
-
-- 📫 How to reach me **davuluri.yaswanth@gmail.com**
+  
+- 📫 How to reach me: **davuluri.yaswanth@gmail.com**
+- 🎓 I graduated as a CSE (specialization in AI & ML) student at **Raghu Engineering College** .
 
 
 <img align="center"  width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
