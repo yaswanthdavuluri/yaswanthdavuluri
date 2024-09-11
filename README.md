@@ -6,7 +6,7 @@
 
 
  
-- 🌱 I’m currently learning **Devops,AWS cloud, DSA, AZURE and game engine**
+- 🌱 I’m currently learning **Devops, AWS cloud, DSA, AZURE **
   
 - 💬 Ask me about **Myself**
   
